@@ -1,0 +1,5 @@
+name,ip
+network.com,127.0.0.1
+cstu,192.168.0.1
+ostu,172.16.0.1
+bigdata,10.0.0.1
